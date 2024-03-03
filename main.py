@@ -1,8 +1,10 @@
 '''
 > github commit > push 하는 방법
 
+pwd
 git remote add origin https://github.com/UnchaeJeong/jjefffnocode-python2weeks.git
-git branch -M main
+git add main.py
+git commit -m 'commit success'
 git push -u origin main
 '''
 
